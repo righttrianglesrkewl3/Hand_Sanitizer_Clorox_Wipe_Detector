@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sanitizer_in</folder>
+	<filename>00000132.png</filename>
+	<path>/home/batman/Desktop/DL/labelImg/dataset/cleaning/sanitizer_in/00000132.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sanitizer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>37</ymin>
+			<xmax>265</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>clorox_in</folder>
+	<filename>cleaning00000148.jpg</filename>
+	<path>/home/batman/Desktop/DL/labelImg/dataset/cleaning/clorox_in/cleaning00000148.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wipes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>7</ymin>
+			<xmax>631</xmax>
+			<ymax>894</ymax>
+		</bndbox>
+	</object>
+</annotation>
