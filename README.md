@@ -6,11 +6,11 @@ This model detects Purell hand sanitizer and Clorox wipes using Tensorflow Custo
 
  Sample prediction #1      |  Sample prediction #2
 :-------------------------:|:-------------------------:
-![alt-text-1](docs/jpegs/1_tensor/resized_ten1.png "title-1") | ![alt-text-2](docs/jpegs/1_tensor/resized_ten2.png "title-2")
+![alt-text-1](docs/jpegs/sanitizer/usage2.png "title-1") | ![alt-text-2](docs/jpegs/sanitizer/usage1.png "title-2")
 
  Sample prediction #3      |  Tensorboard 
 :-------------------------:|:-------------------------:
-![alt-text-1](docs/jpegs/1_tensor/resized_individualImage.png "title-1") | ![alt-text-2](docs/jpegs/1_tensor/resized_board_training.png "title-2")
+![alt-text-1](docs/jpegs/sanitizer/usage3.png "title-1") | ![alt-text-2](docs/jpegs/sanitizer/usage4.png "title-2")
 
 
 # Citations
