@@ -17,9 +17,3 @@ Short description: This model detects Purell hand sanitizer and Clorox wipes usi
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/sanitizer/usage3.png "title-1") | ![alt-text-2](docs/jpegs/sanitizer/usage4.png "title-2")
 
-
-# Citations
-Code in this repository is heavily adapted from course content in **PyImageSearch Gurus** and **Deep Learning for Computer Vision with Python** by **Dr. Adrian Rosebrock**. Please visit **https://www.pyimagesearch.com/pyimagesearch-gurus/** for additional information.
-<p align="left">
-  <img src="docs/jpegs/sanitizer/citation.png">
-</p>
