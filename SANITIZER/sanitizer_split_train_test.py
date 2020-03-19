@@ -1,5 +1,5 @@
 # USAGE
-# python3 cheese_split_train.py -i all_images/ -o output/ -s 0.75 -tf 1
+# python3 sanitizer_split_train.py -i images/ -o output/ -s 0.75 
 
 # import the necessary packages
 from __future__ import print_function
@@ -82,6 +82,3 @@ if train_error_list:
 if test_error_list:
     print('Test error list: ', test_error_list)
 
-# if args['tensorflow_enabled'] > 0:
-#     paths = list(paths.list_files(os.path.join(args['output'], 'test')
-#     print([i for i in paths])
