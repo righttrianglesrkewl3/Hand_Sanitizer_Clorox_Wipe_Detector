@@ -6,7 +6,7 @@ Short description: This model detects Purell hand sanitizer and Clorox wipes usi
 ## Please contact me at kjzehnder3@gmail.com for additional information if you are impressed by this project and feel that I could add value to your company. Thanks in advance.
 
 ## 1. Hand Sanitizer Clorox Wipes Detector ([click to view project code](SANITIZER/))
-
+***Note: Images and annotation files are included in this repository if you want to use them and train your own model***
  Sample prediction #1      |  Sample prediction #2
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/sanitizer/usage2.png "title-1") | ![alt-text-2](docs/jpegs/sanitizer/usage1.png "title-2")
