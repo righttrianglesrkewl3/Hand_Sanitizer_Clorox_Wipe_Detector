@@ -1,5 +1,5 @@
 # USAGE
-# python3 sanitizer_split_train.py -i images/ -o output/ -s 0.75 
+# python3 sanitizer_split_train_test.py -i images/ -o output/ -s 0.75 
 
 # import the necessary packages
 from __future__ import print_function
