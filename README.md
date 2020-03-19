@@ -1,5 +1,6 @@
 # Hand_Sanitizer_Clorox_Wipe_Detector
 This model detects Purell hand sanitizer and Clorox wipes using Tensorflow Custom Object API with Python
+
 ***Note: Please see citations section at the bottom of this page***
 
 ## 1. Hand Sanitizer Clorox Wipes Detector ([click to view project code](SANITIZER/))
