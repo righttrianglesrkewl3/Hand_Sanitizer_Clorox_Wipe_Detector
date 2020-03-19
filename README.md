@@ -3,9 +3,7 @@ Short description: This model detects Purell hand sanitizer and Clorox wipes usi
 
 ## ***Urgent:*** Seeking a position as a software engineer in the Deep Learning/Computer Vision field. 
 
-## Please contact me at for additional information kjzehnder@gmail.com if you are impressed by this project and feel that I could add value to your company. Thanks in advance.
-
-***Note: Please see citations section at the bottom of this page***
+## Please contact me at kjzehnder@gmail.com for additional information if you are impressed by this project and feel that I could add value to your company. Thanks in advance.
 
 ## 1. Hand Sanitizer Clorox Wipes Detector ([click to view project code](SANITIZER/))
 
