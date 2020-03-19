@@ -17,5 +17,5 @@ This model detects Purell hand sanitizer and Clorox wipes using Tensorflow Custo
 # Citations
 Code in this repository is heavily adapted from course content in **PyImageSearch Gurus** and **Deep Learning for Computer Vision with Python** by **Dr. Adrian Rosebrock**. Please visit **https://www.pyimagesearch.com/pyimagesearch-gurus/** for additional information.
 <p align="left">
-  <img src="docs/jpegs/citation.png">
+  <img src="docs/jpegs/sanitizer/citation.png">
 </p>
