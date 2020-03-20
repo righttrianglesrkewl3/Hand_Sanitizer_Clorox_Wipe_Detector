@@ -20,3 +20,4 @@ Use this ***EXCELLENT*** tutorial series if you want to learn how to build your 
 :-------------------------:|:-------------------------:
 ![alt-text-1](docs/jpegs/sanitizer/usage3.png "title-1") | ![alt-text-2](docs/jpegs/sanitizer/usage4.png "title-2")
 
+If you are interested in using code directly from this repository please keep in mind that certain files in the "models" folder are too large to upload onto github. Secondly, the Tensorflow Object Detection API only works for me when I use tensorflow==1.13.2 (pip install --upgrade tensorflow==1.13.2) and the models version that can be found here: https://github.com/tensorflow/models/archive/v1.13.0.zip 
